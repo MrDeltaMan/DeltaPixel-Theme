@@ -73,7 +73,3 @@ Este projeto não seria possível sem o trabalho incrível de outros artistas. C
 ---
 
 Criado por [Mr.Delta-Man](https://www.reddit.com/user/SorbetLongjumping551/)
-
-```
-
-
