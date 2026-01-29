@@ -1,13 +1,13 @@
 ```markdown
 # 🟫 DeltaPixel Theme
-
+```
 ![Licença](https://img.shields.io/badge/license-MIT-green)
 ![Desktop](https://img.shields.io/badge/DE-Cinnamon-orange)
 ![Style](https://img.shields.io/badge/style-Pixel--Art-blue)
 
 Uma "rice" completa para Linux (focada no Cinnamon) com estética pixel art, inspirada em interfaces retrô e sistemas de 8/16 bits.
 
-```
+
 
 ## 📸 Screenshot
 
