@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Hidamari
+Icon=preferences-desktop-wallpaper
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=hidamari io.github.jeffshee.Hidamari
+Actions=
+Categories=GTK;Utility;
+StartupNotify=true

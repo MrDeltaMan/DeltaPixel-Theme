@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Lutris
+Comment=Plataforma de preservação de video games
+Icon=folder-games
+X-GNOME-UsesNotifications=true
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=lutris --file-forwarding net.lutris.Lutris @@u %U @@
+Actions=
+MimeType=x-scheme-handler/lutris;
+Categories=Game;
+Keywords=gaming;wine;emulação;
+StartupNotify=true
+StartupWMClass=Lutris

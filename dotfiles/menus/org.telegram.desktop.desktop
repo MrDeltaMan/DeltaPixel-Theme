@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Telegram
+Comment=New era of messaging
+Icon=telegram
+DBusActivatable=true
+X-GNOME-UsesNotifications=true
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=Telegram --file-forwarding org.telegram.desktop -- @@u %U @@
+Actions=quit;
+MimeType=x-scheme-handler/tg;x-scheme-handler/tonsite;
+Categories=Chat;InstantMessaging;Network;Qt;
+Keywords=tg;chat;im;messaging;messenger;sms;tdesktop;
+StartupWMClass=TelegramDesktop
+
+[Desktop Action quit]
+Name=Quit Telegram
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=Telegram org.telegram.desktop -quit

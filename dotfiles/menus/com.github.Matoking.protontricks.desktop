@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Protontricks
+Comment=A simple wrapper that does winetricks things for Proton enabled games
+Icon=wine
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=protontricks com.github.Matoking.protontricks --no-term --gui
+Actions=
+Categories=Utility;
+Keywords=Steam;Proton;Wine;Winetricks;

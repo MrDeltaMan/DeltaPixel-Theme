@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=CurseForge
+Comment=The CurseForge Electron App
+Icon=wine
+Exec=/opt/CurseForge/curseforge %U
+Actions=
+MimeType=x-scheme-handler/curseforge;x-scheme-handler/cfauth;x-scheme-handler/curseforge-checkout;
+Categories=Utility;
+StartupWMClass=CurseForge

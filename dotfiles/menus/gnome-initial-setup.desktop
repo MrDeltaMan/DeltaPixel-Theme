@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Initial Setup
+# Translators: Do NOT translate or transliterate this text (this is an icon file name)!
+Icon=preferences-system
+Exec=/usr/libexec/gnome-initial-setup-wrapper /usr/libexec/gnome-initial-setup
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;System;
+OnlyShowIn=GNOME;
+NoDisplay=false
+X-GNOME-HiddenUnderSystemd=true
+StartupWMClass=org.gnome.InitialSetup
+X-Ubuntu-Gettext-Domain=gnome-initial-setup

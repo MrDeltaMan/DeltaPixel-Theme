@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Soundux
+GenericName=Soundboard
+Comment=A universal soundboard that uses PulseAudio modules or PipeWire linking
+Icon=cs-sound
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=soundux-startup --file-forwarding io.github.Soundux @@u %U @@
+Actions=
+Categories=Audio;Audio-Video;AudioVideo;Music;Player;

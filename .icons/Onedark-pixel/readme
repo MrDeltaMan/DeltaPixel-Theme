@@ -1,0 +1,55 @@
+First-Date: Jul 01 2021 
+Second-Date: August 28th 2024
+Product's name: onedark-cursor
+author: Darkeye90 
+
+Definition:
+==========
+Onedark-cursor is a simple cursor theme I made to match my setup. 
+I hope you like it.
+
+Size:
+#######
+24
+30
+48
+60
+72
+96
+120
+144
+240
+
+Installation:
+=============
+copy onedark-cursor to ~/.icons directory
+cp -r onedark-cursor ~/.icons
+
+
+Follow Me:
+=========
+Instagram : @darkeye90shop
+Mastadon: @darkeye90@social.opendesktop.org
+
+Share your ‪‪❤︎‬:
+=============
+Pling me here on pling.com
+Liberpay: https://liberapay.com/darkeye90/
+Patreon:  https://www.patreon.com/darkeye90
+Society6: https://society6.com/darkeye90
+
+
+
+Special Thank:
+===========
+Generate (sizes) script
+https://www.pling.com/p/1148692/
+
+Credit:
+======
+onedark.vim
+https://github.com/joshdick/onedark.vim
+Exo 2 font
+https://fonts.google.com/specimen/Exo+2
+origami font
+https://www.dafont.com/origami.font

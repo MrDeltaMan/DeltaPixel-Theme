@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Backups
+Comment=Proteja-se de perdas de informação
+Icon=folder-backup
+DBusActivatable=true
+X-GNOME-UsesNotifications=true
+Exec=deja-dup %u
+Actions=backup;
+MimeType=x-scheme-handler/com.googleusercontent.apps.916137916439-evn6skqan91m96fmsskk8102e3iepv22;x-scheme-handler/msal5291592c-3c09-44fb-a275-5027aa238645;
+Categories=Archiving;GNOME;GTK;Utility;X-GNOME-Utilities;
+Keywords=déjà;deja;dup;
+StartupNotify=true
+
+[Desktop Action backup]
+Name=Backup
+Exec=deja-dup --backup

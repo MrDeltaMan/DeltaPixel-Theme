@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Tecla
+Comment=Preview keyboard layouts
+Icon=org.gnome.Tecla
+Exec=tecla
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false
+Categories=GNOME;GTK;Core;System;
+OnlyShowIn=GNOME;
+X-Ubuntu-Gettext-Domain=tecla

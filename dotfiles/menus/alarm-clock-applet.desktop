@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Alarm Clock
+Comment=Wake up in the morning
+Icon=accessories-clock
+Exec=alarm-clock-applet
+Actions=
+Categories=GNOME;GTK;Utility;

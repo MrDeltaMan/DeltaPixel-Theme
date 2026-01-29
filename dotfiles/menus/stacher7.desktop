@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Stacher7
+GenericName=Stacher7
+Comment=Stacher is a frontend GUI for the youtube-dl (yt-dlp fork) command line tool.  Stacher is designed to be simple, easy to use, and powerful.
+Icon=youtube-dl
+Exec=stacher7 %U
+Actions=
+Categories=GNOME;GTK;Utility;
+StartupNotify=true

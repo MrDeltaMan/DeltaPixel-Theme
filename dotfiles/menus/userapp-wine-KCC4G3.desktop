@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=wine
+NoDisplay=true
+Comment=Definição personalizada para wine
+Icon=wine
+Exec=wine %f
+Actions=
+Categories=Other;

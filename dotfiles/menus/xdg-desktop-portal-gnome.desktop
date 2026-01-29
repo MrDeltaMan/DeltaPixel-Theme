@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Portal
+# TRANSLATORS: Don't translate this text (this is icon name)
+Icon=applications-system-symbolic
+Exec=/usr/libexec/xdg-desktop-portal-gnome
+NoDisplay=false
+X-Ubuntu-Gettext-Domain=xdg-desktop-portal-gnome

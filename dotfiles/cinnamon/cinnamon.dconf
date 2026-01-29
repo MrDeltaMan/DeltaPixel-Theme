@@ -1,0 +1,134 @@
+[/]
+alttab-switcher-delay=100
+command-history=['r', 'cinnamon --replace']
+desklet-snap-interval=25
+desktop-effects-minimize='traditional'
+desktop-effects-on-dialogs=true
+enabled-applets=['panel1:left:0:separator@cinnamon.org:1', 'panel1:right:2:systray@cinnamon.org:3', 'panel1:right:3:xapp-status@cinnamon.org:4', 'panel1:right:4:notifications@cinnamon.org:5', 'panel1:right:5:printers@cinnamon.org:6', 'panel1:right:6:removable-drives@cinnamon.org:7', 'panel1:right:9:network@cinnamon.org:10', 'panel1:right:10:sound@cinnamon.org:11', 'panel1:right:12:calendar@cinnamon.org:13', 'panel1:right:13:cornerbar@cinnamon.org:14', 'panel1:center:0:panel-launchers@cinnamon.org:17', 'panel1:center:1:windowlist@cobinja.de:18', 'panel1:left:1:Cinnamenu@json:19']
+enabled-desklets=@as []
+favorite-apps=['firefox.desktop', 'mintinstall.desktop', 'cinnamon-settings.desktop', 'org.gnome.Terminal.desktop', 'nemo.desktop', 'com.discordapp.Discord.desktop:flatpak']
+hotcorner-layout=['expo:false:0', 'scale:false:0', 'scale:false:0', 'desktop:false:0']
+next-applet-id=20
+no-adjacent-panel-barriers=true
+panel-edit-mode=false
+panel-launchers=['DEPRECATED']
+panel-zone-icon-sizes='[{"left": 48, "center": 48, "right": 22, "panelId": 1}]'
+panel-zone-symbolic-icon-sizes='[{"left": 10, "center": 10, "right": 20, "panelId": 1}]'
+panel-zone-text-sizes='[{"left": 0.0, "center": 0.0, "right": 16.0, "panelId": 1}]'
+panels-autohide=['1:false', '2:false']
+panels-enabled=['1:0:bottom']
+panels-height=['1:56', '2:40']
+panels-hide-delay=['1:0', '2:0']
+panels-show-delay=['1:0', '2:0']
+window-effect-speed=0
+
+[cinnamon-session]
+quit-time-delay=60
+
+[desktop/a11y/applications]
+screen-reader-enabled=false
+
+[desktop/a11y/keyboard]
+bouncekeys-delay=300
+mousekeys-accel-time=300
+mousekeys-init-delay=300
+mousekeys-max-speed=10
+slowkeys-delay=300
+
+[desktop/a11y/mouse]
+dwell-threshold=10
+dwell-time=1.2
+secondary-click-time=1.2
+
+[desktop/background]
+picture-options='zoom'
+picture-uri='file:///home/gabriel/Imagens/Wallpapers/Berserk.png'
+
+[desktop/background/slideshow]
+delay=15
+image-source='directory:///home/gabriel/Imagens'
+
+[desktop/interface]
+cursor-blink-time=1200
+cursor-theme='Onedark-pixel'
+font-name='Pixeloid Sans 10'
+gtk-theme='Squared'
+gtk-theme-backup='Squared'
+icon-theme='PixelTux'
+icon-theme-backup='PixelTux'
+text-scaling-factor=1.1000000000000001
+toolkit-accessibility=false
+
+[desktop/keybindings/media-keys]
+area-screenshot=@as []
+area-screenshot-clip=['<Shift><Super>s']
+screenshot=@as []
+screenshot-clip=['Print']
+window-screenshot-clip=@as []
+
+[desktop/keybindings/wm]
+activate-window-menu=['<Primary><Shift>quotedbl']
+
+[desktop/peripherals/keyboard]
+delay=uint32 500
+repeat-interval=uint32 30
+
+[desktop/screensaver]
+font-date='Pixeloid Mono Bold 24'
+font-message='Pixeloid Mono 14'
+font-time='Pixeloid Mono Bold 64'
+lock-enabled=false
+
+[desktop/session]
+idle-delay=uint32 0
+
+[desktop/sound]
+allow-amplified-volume=true
+event-sounds=false
+
+[desktop/wm/preferences]
+min-window-opacity=30
+theme='Mint-Y'
+theme-backup='Mint-Y'
+titlebar-font='Pixeloid Sans Bold 10'
+
+[gestures]
+swipe-down-2='PUSH_TILE_DOWN::end'
+swipe-down-3='TOGGLE_OVERVIEW::end'
+swipe-down-4='VOLUME_DOWN::end'
+swipe-left-2='PUSH_TILE_LEFT::end'
+swipe-left-3='WORKSPACE_NEXT::end'
+swipe-left-4='WINDOW_WORKSPACE_PREVIOUS::end'
+swipe-right-2='PUSH_TILE_RIGHT::end'
+swipe-right-3='WORKSPACE_PREVIOUS::end'
+swipe-right-4='WINDOW_WORKSPACE_NEXT::end'
+swipe-up-2='PUSH_TILE_UP::end'
+swipe-up-3='TOGGLE_EXPO::end'
+swipe-up-4='VOLUME_UP::end'
+tap-3='MEDIA_PLAY_PAUSE::end'
+
+[launcher]
+check-frequency=300
+memory-limit=2048
+
+[muffin]
+draggable-border-width=10
+
+[settings-daemon/peripherals/keyboard]
+numlock-state='off'
+
+[settings-daemon/plugins/color]
+night-light-enabled=true
+night-light-last-coordinates=(-23.32, -46.369999999999997)
+night-light-schedule-mode='manual'
+night-light-temperature=uint32 3100
+
+[settings-daemon/plugins/power]
+lock-on-suspend=false
+
+[settings-daemon/plugins/xsettings]
+buttons-have-icons=false
+hinting='none'
+
+[theme]
+name='Squared'

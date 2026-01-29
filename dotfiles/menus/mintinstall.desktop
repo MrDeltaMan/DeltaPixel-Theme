@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Gerenciador de Aplicativos
+Comment=Instalar novos aplicativos
+Icon=applications-all
+NotShowIn=KDE;
+Exec=mintinstall
+Actions=
+Categories=Application;Settings;Settings-System;System;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;XFCE;
+StartupNotify=true

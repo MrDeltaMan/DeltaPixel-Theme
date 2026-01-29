@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Discos
+Comment=Gerencie unidades de disco e mídias
+Icon=application-x-cd-image
+DBusActivatable=true
+X-GNOME-UsesNotifications=true
+Exec=gnome-disks
+Actions=
+Categories=GNOME;GTK;HardwareSettings;Settings;Utility;X-GNOME-Utilities;
+Keywords=disco;unidade;volume;disco rígido;hdd;disco;cdrom;dvd;partição;iso;imagem;backup;restaurar;benchmark;avaliação de desempenho;raid;luks;codificação;S.M.A.R.T;smart;
+StartupNotify=true

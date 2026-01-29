@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=gimp
+NoDisplay=true
+Comment=Definição personalizada para gimp
+Icon=gimp
+Exec=gimp %f
+Actions=
+Categories=Other;

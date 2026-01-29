@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Protontricks Launcher
+NoDisplay=true
+Icon=wine
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=protontricks-launch --file-forwarding com.github.Matoking.protontricks --no-term @@ %f @@
+Actions=
+MimeType=application/x-ms-dos-executable;application/x-msi;application/x-ms-shortcut;
+Categories=Utility;

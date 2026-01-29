@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Notas
+Comment=Faça anotações e mantenha-se organizado
+Icon=org.kde.plasma.notes
+Exec=sticky
+Actions=
+Categories=Application;Utility;

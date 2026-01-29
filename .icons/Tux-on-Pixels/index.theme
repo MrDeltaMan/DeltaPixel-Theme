@@ -1,0 +1,14 @@
+[Icon Theme]
+Name=Tux-on-Pixels
+Comment=Tux-on-Pixels override theme
+Inherits=pixellitos-dark, hicolor
+Directories=apps-scalable
+
+# Diretório de apps em SVG
+[apps-scalable]
+Size=48
+Type=Scalable
+Context=Applications
+MinSize=16
+MaxSize=512
+

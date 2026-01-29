@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Transferência Bluetooth
+NoDisplay=false
+Comment=Envie arquivos via Bluetooth
+Icon=/home/gabriel/Documentos/custom-icons/02c88c792b8159d.png
+Exec=bluetooth-sendto
+Actions=
+Categories=FileTools;GNOME;GTK;Utility;
+StartupNotify=true

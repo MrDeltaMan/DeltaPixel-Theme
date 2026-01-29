@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=DuckStation
+GenericName=PlayStation 1 Emulator
+Comment=Fast PlayStation 1 emulator
+Icon=duckstation-nogui
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=duckstation-qt --file-forwarding org.duckstation.DuckStation @@ %f @@
+Actions=
+Categories=Emulator;Game;Qt;

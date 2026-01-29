@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=CMatrix
+Comment=simulates the display from "The Matrix"
+Icon=deepin-terminal
+Exec=cmatrix
+Terminal=true
+Actions=
+Categories=ConsoleOnly;Utility;
+Keywords=matrix;screensaver;

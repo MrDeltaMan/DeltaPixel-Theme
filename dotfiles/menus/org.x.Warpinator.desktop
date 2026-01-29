@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Warpinator
+Comment=Envie e Receba Arquivos através da Rede
+Icon=0ad
+Exec=warpinator
+Actions=
+Categories=GNOME;GTK;Utility;
+Keywords=transfer;exchange;

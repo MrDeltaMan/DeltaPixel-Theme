@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Heroic Games Launcher
+Comment=An Open Source GOG and Epic Games launcher
+Icon=heroic
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=heroic-run --file-forwarding com.heroicgameslauncher.hgl @@u %u @@
+Actions=
+MimeType=x-scheme-handler/heroic;
+Categories=Game;PackageManager;
+StartupWMClass=heroic

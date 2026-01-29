@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Reco
+GenericName=Aplicativo de Gravador de Áudio
+Comment=Foco na gravação
+Icon=audio-input-microphone
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=com.github.ryonakano.reco com.github.ryonakano.reco
+Actions=
+Categories=Audio;AudioVideo;Recorder;Utility;
+Keywords=Gravar;Áudio;Som;Voz;

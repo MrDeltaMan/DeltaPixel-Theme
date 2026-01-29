@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Remmina Connect
+Name[hr]=Remmina povezivanje
+Comment=Access remote desktops with Remmina
+Comment[hr]=Pristupite udaljenim radnim površinama pomoću Remmine
+Categories=GTK;GNOME;X-GNOME-NetworkSettings;Network;
+Keywords=remote desktop;rdp;vnc;ssh;spice;
+TryExec=/usr/bin/remmina
+Exec=remmina-file-wrapper -c %U
+Icon=org.remmina.Remmina
+MimeType=application/x-remmina;x-scheme-handler/remmina;x-scheme-handler/rdp;x-scheme-handler/spice;x-scheme-handler/vnc;
+Actions=Edit;
+Terminal=false
+StartupNotify=true
+NoDisplay=false
+X-Desktop-File-Install-Version=0.24
+
+[Desktop Action Edit]
+Name=Remmina Edit
+Name[hr]=Remmina uređivanje
+Exec=/usr/bin/remmina -e %U

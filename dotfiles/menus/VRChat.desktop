@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=VRChat
+Comment=Play this game on Steam
+Icon=ai-chat
+Exec=steam steam://rungameid/438100
+Actions=
+Categories=Game;

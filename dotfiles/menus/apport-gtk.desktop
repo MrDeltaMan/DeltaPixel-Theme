@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Informar um problema...
+NoDisplay=false
+Comment=Relatar um mal-funcionamento aos desenvolvedores
+Icon=0ad
+Exec=/usr/share/apport/apport-gtk -c %f
+Actions=
+MimeType=text/x-apport;
+Categories=GNOME;GTK;Utility;
+StartupNotify=true

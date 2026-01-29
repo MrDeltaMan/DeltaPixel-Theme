@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Onboard
+GenericName=Teclado virtual Onboard
+Comment=Teclado no ecrã flexível
+Icon=accessories-character-map
+Exec=onboard
+Actions=
+Categories=Accessories;Utility;
+Keywords=onscreen;keyboard;accessibility;utility;

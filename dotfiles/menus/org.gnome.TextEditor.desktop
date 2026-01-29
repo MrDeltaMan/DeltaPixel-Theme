@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Editor de Texto
+GenericName=Editor de Texto
+Comment=Veja e edite arquivos de texto
+Icon=accessories-text-editor
+Exec=gnome-text-editor %U
+Actions=new-window;
+MimeType=text/plain;application/x-zerosize;
+Categories=GNOME;GTK;TextEditor;Utility;
+Keywords=escrever;escreva;notas;bloco de notas;
+StartupNotify=true
+
+[Desktop Action new-window]
+Name=Nova janela
+Exec=gnome-text-editor --new-window

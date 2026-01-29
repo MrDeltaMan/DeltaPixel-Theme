@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Caracteres
+Comment=Aplicativo utilitário para localizar e inserir caracteres incomuns
+Icon=accessories-character-map
+DBusActivatable=true
+Exec=/usr/bin/gnome-characters
+Actions=
+Categories=GNOME;GTK;Utility;X-GNOME-Utilities;
+Keywords=characters;unicode;punctuation;math;letters;emoji;emoticon;symbols;caracteres;pontuação;matemática;letras;carinhas;emoção;símbolos;
+StartupNotify=true

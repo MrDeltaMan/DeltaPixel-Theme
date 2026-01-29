@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=remmina-gnome
+NoDisplay=false
+Comment=Remmina Kiosk (4 thin clients)
+Comment[hr]=Remmina Kiosk (4 tanka klijenta)
+Exec=remmina-gnome
+X-GNOME-WMName=remmina-gnome
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false

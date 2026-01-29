@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=ProtonUp-Qt
+Comment=Install Wine and Proton-based Compatibility Tools
+Icon=winetricks
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=net.davidotek.pupgui2 net.davidotek.pupgui2
+Actions=
+Categories=Game;Utility;

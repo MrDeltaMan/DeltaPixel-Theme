@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Stremio
+Comment=Video organizer for your Movies, TV Shows and TV Channels
+Icon=video-display
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=/app/opt/stremio/stremio --file-forwarding com.stremio.Stremio @@u %U @@
+Actions=
+MimeType=application/x-bittorrent;x-scheme-handler/magnet;x-scheme-handler/stremio;video/avi;video/msvideo;video/x-msvideo;video/mp4;video/x-matroska;
+Categories=Audio-Video;AudioVideo;Player;TV;Video;
+StartupWMClass=stremio
