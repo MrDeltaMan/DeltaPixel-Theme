@@ -31,7 +31,7 @@ Uma "rice" completa para Linux (focada no Cinnamon) com estética pixel art, ins
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/MrDeltaMan/deltapixel-theme.git](https://github.com/MrDeltaMan/deltapixel-theme.git)
+git clone https://github.com/MrDeltaMan/deltapixel-theme.git
 cd deltapixel-theme
 
 ```
