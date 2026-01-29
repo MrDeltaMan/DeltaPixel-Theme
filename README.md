@@ -68,7 +68,7 @@ dconf load /org/cinnamon/ < dotfiles/cinnamon/cinnamon.dconf
 
 ## 🤝 Créditos
 
-Este projeto não seria possível sem o trabalho incrível de outros artistas. Confira os detalhes completos no arquivo [CREDITS.txt](https://www.google.com/search?q=CREDITS.txt).
+Este projeto não seria possível sem o trabalho incrível de outros artistas. Confira os detalhes completos no arquivo [CREDITS.txt](CREDITS.txt).
 
 ---
 
