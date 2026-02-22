@@ -1,0 +1,13 @@
+[Icon Theme]
+Name=PixelTux
+Comment=Pixel icons hybrid
+Inherits=pixelitos-dark, Tux-on-Pixels, hicolor
+Directories=apps/scalable
+
+[apps/scalable]
+Size=48
+Type=Scalable
+Context=Applications
+MinSize=16
+MaxSize=512
+
