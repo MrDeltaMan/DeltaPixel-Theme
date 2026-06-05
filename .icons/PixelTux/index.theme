@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=PixelTux
 Comment=Pixel icons hybrid
-Inherits=pixelitos-dark, Tux-on-Pixels, hicolor
+Inherits=pixora-dark,pixelitos-dark,Tux-on-Pixels, hicolor
 Directories=apps/scalable
 
 [apps/scalable]
